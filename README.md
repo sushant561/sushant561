@@ -1,16 +1,13 @@
-## Hi there 👋
+👋 Hi there, i'm Sushant
 
-<!--
-**sushant561/sushant561** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+About me:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🤖 Studying at University of Delhi (DU)
+📚 Love Coding & Watching Movies
+🌱 Currently learning Web Dev and AI
+📫 Contact me: sushantbhagat561@gmail.com
+
+Contact Me:
+https://x.com/Sushant1864?t=YaiNxsRQykmTGFw8i23Hcw&s=08 
+https://www.linkedin.com/in/sushant-bhagat-9a3587329?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app 
