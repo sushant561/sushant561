@@ -20,8 +20,8 @@
   <a href="[https://linkedin.com/in/your-profile](https://www.linkedin.com/in/sushant-bhagat-9a3587329?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app )" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="[https://instagram.com/your-profile](https://x.com/Sushant1864?t=YaiNxsRQykmTGFw8i23Hcw&s=08 )" target="_blank">
-    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  <a href="[https://x.com/Sushant1864](https://x.com/Sushant1864?t=YaiNxsRQykmTGFw8i23Hcw&s=08 )" target="_blank">
+    <img alt="X" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
 
