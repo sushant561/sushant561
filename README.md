@@ -1,8 +1,8 @@
 <h1>👋 Hi there, i'm Sushant </h1>
-<hr>
+
 
 <h2>About me:</h2>
-<hr>
+
 
 🤖 Studying at University of Delhi (DU)
 
@@ -15,7 +15,7 @@
 
 
 <h2>Connect with me:</h2>
-<hr>
+
 <p align="left">
   <a href="[https://linkedin.com/in/your-profile](https://www.linkedin.com/in/sushant-bhagat-9a3587329?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app )" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
